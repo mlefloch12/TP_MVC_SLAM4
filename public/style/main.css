@@ -1,0 +1,12 @@
+.imageTest{
+    margin: auto;
+    display: flex;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 5px 10px;
+}
+
+.dateAbout{
+    margin-bottom: 0;
+    text-align: center;
+}
